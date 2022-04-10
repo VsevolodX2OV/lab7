@@ -1,7 +1,7 @@
 // Copyright by Enigma
 
 #include <stdexcept>
-#include "suggestion.h"
+#include <suggestion.h>
 
 CallSuggestions::CallSuggestions() {
   _suggestions = { };

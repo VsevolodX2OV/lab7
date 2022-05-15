@@ -1,5 +1,5 @@
 
-// Copyright by Enigma
+//Copyright 2022 by Winter Solider
 
 #ifndef INCLUDE_HTTP_SERVER_HPP_
 #define INCLUDE_HTTP_SERVER_HPP_

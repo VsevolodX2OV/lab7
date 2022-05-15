@@ -1,4 +1,4 @@
-// Copyright by Enigma 2022
+//Copyright 2021 by Winter Solider
 
 // cd CLionProjects/lab_07/cmake-build-debug/
 // ./demo 127.0.0.1 8080 /

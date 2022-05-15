@@ -1,4 +1,4 @@
-//Copyright 2021 by Winter Solider
+//Copyright 2022 by Winter Solider
 
 #ifndef INCLUDE_JSONSTORAGE_HPP_
 #define INCLUDE_JSONSTORAGE_HPP_
